@@ -47,3 +47,13 @@ streamlit run app.py
 npx localtunnel --port 8501
 ```
 
+## Interface Demo
+
+## 🖼 Interface Demo
+
+Here's a quick look at the interface:
+
+![Interface Demo](interface_demo.png)
+
+You can choose input type, select summary length, enter a URL or text, and view the generated summary alongside the original article.
+
