@@ -36,3 +36,12 @@ Install required Python packages using:
 
 ```bash
 pip install unsloth streamlit transformers beautifulsoup4 newspaper3k torch
+```
+
+## 🛠 Installation
+
+```bash
+pip install some-package
+python app.py
+```
+
