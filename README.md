@@ -38,10 +38,12 @@ Install required Python packages using:
 pip install unsloth streamlit transformers beautifulsoup4 newspaper3k torch
 ```
 
-## 🛠 Installation
+## 🌐 Local Deployment
+
+run the app locally using Streamlit and LocalTunnel:
 
 ```bash
-pip install some-package
-python app.py
+streamlit run app.py
+npx localtunnel --port 8501
 ```
 
